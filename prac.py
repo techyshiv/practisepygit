@@ -1,3 +1,2 @@
-print("Hello")
-print("Welcome to here")
-print("We done first commit")
+for i in range(1,11):
+  print(i**2)
